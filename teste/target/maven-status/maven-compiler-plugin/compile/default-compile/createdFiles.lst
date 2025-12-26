@@ -1,0 +1,15 @@
+controller\SessaoController.class
+model\dao\SessaoDao.class
+model\dao\FilmeDao.class
+controller\PrincipalController.class
+model\dao\ConnFactory.class
+start\App.class
+model\Sessao.class
+model\Filme.class
+model\dao\DaoFactory.class
+model\Sala.class
+module-info.class
+model\dao\SalaDao.class
+model\dao\InterfaceDao.class
+controller\FilmeController.class
+controller\SalaController.class
